@@ -1,2 +1,2 @@
 # Task1
-HTML, CSS
+HTML, CSS, JavaScript, Object Oriented programming
